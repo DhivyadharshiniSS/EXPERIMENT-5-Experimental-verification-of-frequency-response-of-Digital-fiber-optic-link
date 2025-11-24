@@ -68,10 +68,11 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+![OCN_EXP5](https://github.com/user-attachments/assets/5c34d164-31dc-4475-90e5-c801a67514c0)
+
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus an 660nm and 950nm fiber digital link and the frequency response of the photoresistor detector has stiched and the relationship between the input signal and received signal successfully verified.
